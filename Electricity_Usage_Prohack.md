@@ -95,8 +95,4 @@ You receive a dataset representing intergalactic energy consumption and well-bei
 
 ---
 
-## Contact
-**Data Science Academy**  
-Aşıq Alı 24, Nərimanov rayonu, Baku, Azerbaijan  
-+994 51 341 43 40  
-info@datascienceacademy.az
+
